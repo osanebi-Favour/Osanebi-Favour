@@ -30,7 +30,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy Learning,Meeting People and Sport. I love the "aha!" moment when data reveals something new and useful.
 
 ### 🏆 Portfolio Website  
-🔗 [https://portfol.io/osanebifavour24](https://portfol.io/osanebifavour24)
+🔗 [https://osanebi-favour.github.io](https://osanebi-favour.github.io)
 
 ## 🔭 What I'm Currently Working On 
 
